@@ -1,0 +1,27 @@
+ ========== ========== 
+Nome: Henrique
+Endereço: 
+Rua: Dalvo Matos 151
+CEP: 02728110
+Bairro: Vila Palmeiras
+Estado: Sao Paulo
+Telefone: 39319048
+ ========== ========== 
+ ========== ========== 
+Nome: Victor
+Endereço: 
+Rua: Joao Alfredo Abrao 
+CEP: 02963060
+Bairro: Freguesia do O
+Estado: Sao Paulo
+Telefone: 39927854
+ ========== ========== 
+ ========== ========== 
+Nome: lalal
+Endereço: 
+Rua: ajhajka
+CEP: 54545
+Bairro: ahahgaka
+Estado: ajkabkja
+Telefone: 545646
+ ========== ========== 
